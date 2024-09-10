@@ -5,7 +5,7 @@ This project involves designing a relational database system for an e-library ap
 
 ### ERD Diagram
 The database schema is represented by an Entity-Relationship Diagram (ERD), which defines the relationships between entities such as Libraries, Books, Users, Loans, and Holds.
-![ERD Diagram](https://drive.google.com/file/d/1cjJALD9WED1nOCxtc00zelsZfdAvyk3V/view?usp=sharing)
+<a>https://drive.google.com/file/d/1cjJALD9WED1nOCxtc00zelsZfdAvyk3V/view?usp=sharing</a>
 
 ### DDL Syntax
 DDL Syntax is the syntax that used to make tables in **PostgreSQL**.
@@ -21,6 +21,4 @@ To implement the design in PostgreSQL:
 1. Create the schema based on the ERD.
 2. Define tables with appropriate fields, data types, and constraints.
 3. Use **pgAdmin** or **psql** to run the DDL commands. 
-# Sql-and-Relation-Database-Project
-"#Sql-and-Relation-Database-Project"
-# Sql-and-Relation-Database-Project
+
